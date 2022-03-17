@@ -38,6 +38,16 @@ print(g)
 print(h)
 
 
+word = "aiueo"
+word[1:]
+#iueo
+
+
+len("aiueo")
+#5文字
+
+
+
 
 
 #ここで力つきてインタプリタでやり始める。
